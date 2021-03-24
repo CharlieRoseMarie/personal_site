@@ -1,0 +1,1 @@
+var JekyllPWA=JekyllPWA||{};JekyllPWA.Home={init:function(){this.initHello(),this.initAnotherFunction()},initHello:function(){console.log("hello.")},initAnotherFunction:function(){}},JekyllPWA.Home.init();
